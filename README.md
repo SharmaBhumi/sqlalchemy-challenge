@@ -1,6 +1,6 @@
 # SQLAlchemy Homework - Surfs Up!
 
-![surfs-up.png](Images/rock_climbing.png)
+![surfs-up.png](Images/rock_climbing.jpg)
 
 ## Climate Analysis and Exploration
 
