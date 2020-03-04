@@ -2,7 +2,7 @@
 
 ![rock_climbing.png](Images/rock_climbing.png)
 
-## Use SQLite database for Climate Analysis and Exploration
+## Step 1 - Use SQLite database for Climate Analysis and Exploration
 SQLite database is used to analyse Precipitation and other weather realted information for various weather stations over a period of 15 days.
 ### Precipitation Analysis
 
