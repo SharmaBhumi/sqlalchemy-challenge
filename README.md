@@ -10,7 +10,7 @@ SQLite database is used to analyse Precipitation and other weather realted infor
 
 ### Station Analysis
 
-    ![station-histogram](Images/station-histogram.png)
+ ![station-histogram](Images/station-histogram.png)
 
 - - -
 
